@@ -17,7 +17,8 @@ Key areas of exploration include Average Order Value (AOV), Customer Lifetime Va
 * Recommended improvements for inventory management and operational efficiency.
 
 ---
-In addition to the detailed data analysis, I created an interactive **Tableau dashboard** to help stakeholders track and monitor key business metrics. The dashboard provides a comprehensive view of Olist's performance, enabling stakeholders to:
+In addition to the detailed data analysis, I created an interactive **Tableau dashboard** to help stakeholders track and monitor key business metrics.  
+The dashboard provides a comprehensive view of Olist's performance, enabling stakeholders to:
 
 * Track Total Orders, Total Customers, and Total Revenue in real time.
 * Analyze Orders by Order Status, identifying patterns in cancellations, late deliveries, and completed orders.
