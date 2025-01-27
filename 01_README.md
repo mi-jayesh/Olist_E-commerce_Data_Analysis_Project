@@ -2,6 +2,8 @@
 This project focuses on analyzing the performance and operational efficiency of **Olist, a Brazilian e-commerce platform.**  <br>  
 This project focuses on analyzing the performance and operational efficiency of Olist, a Brazilian e-commerce platform. By leveraging data on customer behavior, product categories, payment methods, delivery performance, and customer reviews, the analysis provides actionable insights to optimize operations, improve customer satisfaction, and drive revenue growth.  
 
+**Dataset Link:-** Click here to access the <a href="https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce" target="_blank">Brazilian eCommerce dataset</a>.
+
 **Objectives :-** 
 ---
 Key areas of exploration include Average Order Value (AOV), Customer Lifetime Value (CLV), repeat purchase rates, profit margins, delivery efficiency, and customer feedback. The findings are supported by data-driven recommendations to enhance inventory management, logistics, and customer retention strategies.
