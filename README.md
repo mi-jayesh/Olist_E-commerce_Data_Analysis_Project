@@ -28,3 +28,11 @@ The dashboard provides a comprehensive view of Olist's performance, enabling sta
 * This dashboard allows stakeholders to make informed, data-driven decisions and align strategies with performance trends across various dimensions.
 * This project demonstrates the power of data analysis in driving business decisions and improving e-commerce performance.
 
+---
+
+**Tools and Technologies Used:-**
+---
+* **Python:-** Utilized Python libraries such as Pandas for data cleaning, preprocessing, and exploratory data analysis to uncover meaningful insights.
+* **SQL:-** Imported multiple datasets into a relational database and performed in-depth analysis using SQL to extract key metrics and trends.
+* **Tableau:-** Designed and built an interactive dashboard for data visualization, allowing stakeholders to explore metrics like total orders, revenue trends, and customer behavior dynamically.
+
