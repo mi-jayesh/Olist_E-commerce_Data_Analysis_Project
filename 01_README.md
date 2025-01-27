@@ -8,7 +8,13 @@ This project focuses on analyzing the performance and operational efficiency of 
 ---
 Key areas of exploration include Average Order Value (AOV), Customer Lifetime Value (CLV), repeat purchase rates, profit margins, delivery efficiency, and customer feedback. The findings are supported by data-driven recommendations to enhance inventory management, logistics, and customer retention strategies.
 
-**Key Highlights:**
+**Analysis Workflow :-**  
+---
+* **Cleaning:** Data preparation and preprocessing to ensure high-quality data for analysis.
+* **Analysis:** Extracting insights using Python and SQL, focusing on key metrics like AOV, CLV, and delivery performance.
+* **Dashboarding:** Creating an interactive Tableau dashboard for visualizing and presenting the findings to stakeholders.
+
+**Key Highlights :-**
 ---
 * Identified high-value product categories and payment preferences.
 
@@ -32,7 +38,7 @@ The dashboard provides a comprehensive view of Olist's performance, enabling sta
 
 ---
 
-**Tools and Technologies Used:-**
+**Tools and Technologies Used :-**
 ---
 * **Python:-** Utilized Python libraries such as Pandas for data cleaning, preprocessing, and exploratory data analysis to uncover meaningful insights.
 * **SQL:-** Imported multiple datasets into a relational database and performed in-depth analysis using SQL to extract key metrics and trends.
