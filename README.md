@@ -1,46 +1,60 @@
-# Olist_E-commerce_Data_Analysis_Project
-This project focuses on analyzing the performance and operational efficiency of **Olist, a Brazilian e-commerce platform.**  <br>  
-This project focuses on analyzing the performance and operational efficiency of Olist, a Brazilian e-commerce platform. By leveraging data on customer behavior, product categories, payment methods, delivery performance, and customer reviews, the analysis provides actionable insights to optimize operations, improve customer satisfaction, and drive revenue growth.  
-
-**Dataset Link:-** Click here to access the <a href="https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce" target="_blank">Brazilian eCommerce dataset</a>.
-
-**Objectives :-** 
+# 🛒 Olist E-commerce Data Analysis Project
 ---
-Key areas of exploration include Average Order Value (AOV), Customer Lifetime Value (CLV), repeat purchase rates, profit margins, delivery efficiency, and customer feedback. The findings are supported by data-driven recommendations to enhance inventory management, logistics, and customer retention strategies.
+## 📌 Objective
 
-**Analysis Workflow :-**  
+The goal of this project was to perform an end-to-end data analysis on over 100,000+ transactions from Olist, a Brazilian e-commerce marketplace, to:
+
+- Understand customer behavior, purchasing trends, and operational efficiency by analyzing KPIs such as Average Order Value (AOV), customer retention, profit margins, and delivery performance.
+
+- Identify growth opportunities across product categories, payment methods, and fulfillment processes to drive data-informed business decisions.
+- Based on the insights derived, the project  aimed to recommend actionable strategies to improve customer retention, optimize inventory for high-margin products, and enhance delivery performance—ultimately contributing to increased profitability and customer satisfaction.
 ---
-* **Cleaning:** Data preparation and preprocessing to ensure high-quality data for analysis.
-* **Analysis:** Extracting insights using Python and SQL, focusing on key metrics like AOV, CLV, and delivery performance.
-* **Dashboarding:** Creating an interactive Tableau dashboard for visualizing and presenting the findings to stakeholders.
 
-**Key Highlights :-**
----
-* Identified high-value product categories and payment preferences.
+## 📊 Key Insights
 
-* Analyzed delivery performance and late delivery trends.
-
-* Provided strategies to increase repeat purchases and customer loyalty.
-
-* Recommended improvements for inventory management and operational efficiency.
-
----
-In addition to the detailed data analysis, I created an interactive **Tableau dashboard** to help stakeholders track and monitor key business metrics.  
-The dashboard provides a comprehensive view of Olist's performance, enabling stakeholders to:
-
-* Track Total Orders, Total Customers, and Total Revenue in real time.
-* Analyze Orders by Order Status, identifying patterns in cancellations, late deliveries, and completed orders.
-* Visualize Revenue Trends over time and by states or regions.
-* Gain insights into Revenue by Product Categories, highlighting which categories drive the most sales.
-* Leverage Year and Quarter filters to perform dynamic, time-specific analysis for better decision-making.
-* This dashboard allows stakeholders to make informed, data-driven decisions and align strategies with performance trends across various dimensions.
-* This project demonstrates the power of data analysis in driving business decisions and improving e-commerce performance.
+- **📉 Low Repeat Purchases:** Only **8.42%** of customers made repeat purchases → highlighting opportunity to boost retention.
+- **💰 High-Value Categories:** *Computers*, *Fixed Telephony*, and *Small Appliances* showed highest AOV (> ₹1,200).
+- **🚚 Delivery Delays:** 8.11% of orders were delivered late. *Furniture* and *Fashion Shoes* had average delivery times of **12.4 days**.
+- **💳 Payment Preferences:** Over **75%** of customers used **credit cards**, linked to higher order values.
+- **⭐ Customer Reviews:** *Children’s Clothing* scored highest (avg rating: 5). *Security & Services* underperformed.
 
 ---
 
-**Tools and Technologies Used :-**
----
-* **Python:-** Utilized Python libraries such as Pandas for data cleaning, preprocessing, and exploratory data analysis to uncover meaningful insights.
-* **SQL:-** Imported multiple datasets into a relational database and performed in-depth analysis using SQL to extract key metrics and trends.
-* **Tableau:-** Designed and built an interactive dashboard for data visualization, allowing stakeholders to explore metrics like total orders, revenue trends, and customer behavior dynamically.
+## 📈 Dashboard Highlights (Tableau)
 
+- Built a dynamic and interactive **KPI Dashboard** to visualize:
+  - Average Order Value (AOV)
+  - Customer Segments
+  - Delivery Time Analysis
+  - Profitability by Category
+
+- Features used:
+  - **LOD Expressions**, **Calculated Fields**, Filters
+  - Clean UX Design for Executives & Stakeholders
+
+🔗 [View Tableau Dashboard](https://github.com/mi-jayesh/Olist_E-commerce_Data_Analysis_Project)
+
+
+
+---
+
+## ✅ Recommendations
+
+- **Boost Repeat Purchases:** Introduce loyalty programs and email campaigns.
+- **Optimize Inventory:** Focus on high-margin products (e.g., Computers).
+- **Improve Delivery:** Partner with faster logistics for bulky items.
+- **Drive Revenue:** Incentivize credit card usage through targeted offers.
+- **Fix Poor Ratings:** Investigate and enhance low-rated product categories.
+
+---
+
+## 💡 Skills Demonstrated
+
+- Data Cleaning & EDA (Python, SQL)
+- Dashboard Development (Tableau, UX/UI best practices)
+- Business Communication & Insight Storytelling
+- Strategic Thinking & Actionable Recommendations
+
+---
+
+📬 Feel free to connect or reach out with feedback or questions!
